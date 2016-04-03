@@ -5,7 +5,7 @@ var appConfig = {
     maxStarRating: 6,
     itemsInSection: 30,
     editorialId: 1418,
-    frontpageQueueId: 1375,
+    frontpageQueueId: 1232,
     frontpageItems: 21,
     canonicalDomain: 'http://dagbladetringskjern.dk/',
     chartbeatApikey: 'c3624866ca79af3601812dbe1eb517f4',
@@ -62,63 +62,31 @@ var appConfig = {
         }
     },
     sectionsWithSubsectionsById: {
-        64952: 'oestjylland', //Østjylland
-        64954: 'oestjylland', //Århus
-        64928: 'oestjylland', //Skanderborg
-        64939: 'oestjylland', //Odder
-        64930: 'oestjylland', //Favrskov
-        64944: 'oestjylland', //Syddjurs
-        64938: 'oestjylland', //Norddjurs
+        1257: 'sport', //Lokal sport
+        1255: 'sport', //Ringkøbing Håndbold
+        2008: 'sport', //Ringkøbing IF
+        1256: 'sport', //Skjern Håndbold
+        2009: 'sport', //Tarm-Foersum GF
     },
     sections: {
       sport: {
         name: 'Sport',
-        id: 1405
-      },
-      oestjylland: {
-        name: 'Østjylland',
-        id: 1391,
-        subsections: [
-          {slug: 'oestjylland', name: 'Østjylland'},
-          {slug: 'randers', name: 'Randers'},
-          {slug: 'mariagerfjord', name: 'Mariagerfjord'},
-          {slug: 'favrskov', name: 'Favrskov'},
-          {slug: 'norddjurs', name: 'Norddjurs'},
-          {slug: 'syddjurs', name: 'Syddjurs'},
-        ]
+        id: 1253
       },
       indland: {
         name: 'Danmark',
-        id: 1397
+        id: 1248
       },
       verden: {
         name: 'Verden',
-        id: 1398
+        id: 1249
       },
-      kultur: {
-        name: 'Kultur',
-        id: 1406
+
+      lokalsport: {
+        name: 'Lokal sport',
+        id: 1257
       },
-      erhverv: {
-        name: 'Erhverv',
-        id: 1399
-      },
-      navne: {
-        name: 'Navne',
-        id: 1420
-      },
-      fodbold: {
-        name: 'Fodbold',
-        id: 331535
-      },
-      basketball: {
-        name: 'Basketball',
-        id: 331537
-      },
-      haandbold: {
-        name: 'Håndbold',
-        id: 331536
-      },
+
       alarm112: {
         name: 'Alarm 112',
         id: 1401
@@ -127,25 +95,25 @@ var appConfig = {
         name: 'Debat',
         id: 1417
       },
-      randers: {
-        name: 'Randers',
-        id: 1390
+      ringkoebing: {
+        name: 'Ringkøbing',
+        id: 1242
       },
-      mariagerfjord: {
-        name: 'Mariagerfjord',
-        id: 1390
+      skjerntarm: {
+        name: 'Skjern-Tarm',
+        id: 1243
       },
-      favrskov: {
-        name: 'Favrskov',
-        id: 1393
+      hvidesande: {
+        name: 'Hvide Sande',
+        id: 1244
       },
-      syddjurs: {
-        name: 'Syddjurs',
-        id: 1394
+      videbaek: {
+        name: 'Videbæk',
+        id: 1245
       },
-      norddjurs: {
-        name: 'Norddjurs',
-        id: 1395
+      ulfborgvemb: {
+        name: 'Ulfborg-Vemb',
+        id: 1246
       },
     },
     sportsTeams: [
