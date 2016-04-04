@@ -156,19 +156,19 @@ var appConfig = {
 
     ],
     socials: {
-        facebook: 'https://www.facebook.com/amtsavisen',
-        twitter: 'https://twitter.com/Amtsavisendk',
-        instagram: 'http://instagram.com/amtsavisen',
-        google: 'https://plus.google.com/115329460845330231424/about'
+        facebook: 'https://www.facebook.com/dagbladetRS',
+        twitter: 'https://twitter.com/DagbladetRS',
+        instagram: 'https://www.instagram.com/dagbladetrs',
+        google: 'https://plus.google.com/101613100874818493833/about'
     },
     footer: {
         copyright: "2016 Jysk Fynske Medier",
-        tipmail: 'redaktion@amtsavisen.dk',
+        tipmail: 'ringkoebing@bergske.dk',
         logo: '/assets/images/stiftenlogo_white.svg',
-        phoneNum: 'tel:+4587122000',
-        phoneNumDisplay: '+45 8712 2000',
-        maplink: 'https://www.google.dk/maps/place/Amtsavisen+-+Randers+Amtsavis/@56.4618659,10.0333604,17z/data=!3m1!4b1!4m2!3m1!1s0x464c1cd07e8dc1d9:0xdca291422097b172',
-        postalAddress: 'Nørregade 7 · 8900 Randers',
+        phoneNum: 'tel:+4599757300',
+        phoneNumDisplay: '+4599757300',
+        maplink: 'https://www.google.dk/maps/place/Dagbladet+Ringk%C3%B8bing-Skjern+-+Ringk%C3%B8bing/@56.0922994,8.2459936,17z/data=!4m2!3m1!1s0x464a5b21663d2335:0x266965e70ace1ac4',
+        postalAddress: 'St. Blichersvej 5 · 6950 Ringkøbing',
         policies: {
             copyright: {
                 text: 'Ophavsret og vilkår',
@@ -186,7 +186,7 @@ var appConfig = {
         business: {
             subscription: {
                 text: 'Abonnement',
-                link: 'http://abonnement.amtsavisen.dk/'
+                link: 'http://abonnement.dagbladetringskjern.dk/'
             },
             ads: {
                 text: 'Annoncering',
@@ -194,7 +194,7 @@ var appConfig = {
             },
             service: {
                 text: 'Kundeservice',
-                link: 'https://amtsavisen.kundeunivers.dk/kontakt'
+                link: 'https://dagbladetringskjern.kundeunivers.dk/kontakt'
             }
         },
     }
