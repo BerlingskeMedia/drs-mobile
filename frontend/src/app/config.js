@@ -9,6 +9,7 @@ var appConfig = {
     frontpageItems: 21,
     canonicalDomain: 'http://dagbladetringskjern.dk/',
     chartbeatApikey: 'c3624866ca79af3601812dbe1eb517f4',
+    chartbeatHost: 'amtsavisen.dk',
     defaultImageSize: '866x487-c',
     defaultMetaTitle: 'Dagbladet Ringkøbing-Skjern - mobil',
     timeAgoNowThreshold: 2,
@@ -155,13 +156,19 @@ var appConfig = {
 
     ],
     socials: {
-        facebook: 'https://www.facebook.com/stiftstidende',
-        twitter: 'https://twitter.com/stiftendk',
-        instagram: 'http://instagram.com/stiftendk',
-        google: 'https://google.com/stiftendk'
+        facebook: 'https://www.facebook.com/amtsavisen',
+        twitter: 'https://twitter.com/Amtsavisendk',
+        instagram: 'http://instagram.com/amtsavisen',
+        google: 'https://plus.google.com/115329460845330231424/about'
     },
     footer: {
         copyright: "2016 Jysk Fynske Medier",
+        tipmail: 'redaktion@amtsavisen.dk',
+        logo: '/assets/images/stiftenlogo_white.svg',
+        phoneNum: 'tel:+4587122000',
+        phoneNumDisplay: '+45 8712 2000',
+        maplink: 'https://www.google.dk/maps/place/Amtsavisen+-+Randers+Amtsavis/@56.4618659,10.0333604,17z/data=!3m1!4b1!4m2!3m1!1s0x464c1cd07e8dc1d9:0xdca291422097b172',
+        postalAddress: 'Nørregade 7 · 8900 Randers',
         policies: {
             copyright: {
                 text: 'Ophavsret og vilkår',

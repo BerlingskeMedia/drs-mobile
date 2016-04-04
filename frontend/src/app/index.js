@@ -109,8 +109,8 @@ var app = angular
       '$compileProvider',
       function( $compileProvider )
       {
-          // Allow sms-links
-          $compileProvider.aHrefSanitizationWhitelist(/^\s*(https?|ftp|mailto|sms):/);
+          // Allow sms-links and phone-links
+          $compileProvider.aHrefSanitizationWhitelist(/^\s*(https?|ftp|mailto|sms|tel):/);
       }
   ])
   .config(function($httpProvider) {
