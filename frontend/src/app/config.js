@@ -9,7 +9,7 @@ var appConfig = {
     frontpageItems: 21,
     canonicalDomain: 'http://dagbladetringskjern.dk/',
     chartbeatApikey: 'c3624866ca79af3601812dbe1eb517f4',
-    chartbeatHost: 'amtsavisen.dk',
+    chartbeatHost: 'dagbladetringskjern.dk',
     defaultImageSize: '866x487-c',
     defaultMetaTitle: 'Dagbladet Ringkøbing-Skjern - mobil',
     timeAgoNowThreshold: 2,
