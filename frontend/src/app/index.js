@@ -41,7 +41,7 @@ var app = angular
   )
   .constant(
       'BASE_URL_TO_RELATIVIZE',
-      'http://amtsavisen.dk'
+      'http://dagbladetringskjern.dk/'
   )
   .constant('config', appConfig)
   .config(function ($routeProvider, $locationProvider, $httpProvider, localStorageServiceProvider) {
