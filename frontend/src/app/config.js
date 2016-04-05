@@ -8,7 +8,7 @@ var appConfig = {
     frontpageQueueId: 1232,
     frontpageItems: 21,
     canonicalDomain: 'http://dagbladetringskjern.dk/',
-    chartbeatApikey: 'c3624866ca79af3601812dbe1eb517f4',
+    chartbeatApikey: 'aa2c9dbbc96421fe10d39c9003d89689',
     chartbeatHost: 'dagbladetringskjern.dk',
     defaultImageSize: '866x487-c',
     defaultMetaTitle: 'Dagbladet Ringkøbing-Skjern - mobil',
