@@ -8,7 +8,7 @@ var appConfig = {
     frontpageQueueId: 1232,
     frontpageItems: 21,
     canonicalDomain: 'http://dagbladetringskjern.dk/',
-    chartbeatApikey: 'aa2c9dbbc96421fe10d39c9003d89689',
+    chartbeatApikey: '7c39ceef1cd3a8331104922173c2e8ab',
     chartbeatHost: 'dagbladetringskjern.dk',
     defaultImageSize: '866x487-c',
     defaultMetaTitle: 'Dagbladet Ringkøbing-Skjern - mobil',
@@ -164,7 +164,7 @@ var appConfig = {
     footer: {
         copyright: "2016 Jysk Fynske Medier",
         tipmail: 'ringkoebing@bergske.dk',
-        logo: '/assets/images/stiftenlogo_white.svg',
+        logo: '/assets/images/drs_footer.svg',
         phoneNum: 'tel:+4599757300',
         phoneNumDisplay: '+4599757300',
         maplink: 'https://www.google.dk/maps/place/Dagbladet+Ringk%C3%B8bing-Skjern+-+Ringk%C3%B8bing/@56.0922994,8.2459936,17z/data=!4m2!3m1!1s0x464a5b21663d2335:0x266965e70ace1ac4',
